@@ -1,0 +1,29 @@
+[
+  {
+    "name": "java.awt.image.BufferedImage",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "java.awt.image.ColorModel",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "java.awt.image.SampleModel",
+    "allDeclaredFields": true
+  },
+  {
+    "name": "org.thymeleaf.extras.springsecurity6.auth.Authorization",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "org.springframework.security.access.expression.method.MethodSecurityExpressionHandler",
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true
+  }
+]
+
